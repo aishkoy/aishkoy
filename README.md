@@ -2,28 +2,12 @@
 
 ## 👩‍💻 About Me
 
-2nd year **Computer Engineering** student at **Ala-Too International University**. Passionate developer who loves creating useful applications and exploring new technologies.
+2nd year **Computer Engineering** student at **Ala-Too International University**. 
+Passionate developer who loves creating useful applications and exploring new technologies.
 
 - 🎯 **Currently working on:** a project for clients
 - 🌱 **Learning:** modern web development technologies
 - 💃 **Hobbies:** dancing and playing komuz
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Frameworks & Technologies
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
 
 ## 🚀 My Projects
 
@@ -39,10 +23,6 @@ Food delivery application with user-friendly interface and comprehensive orderin
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aishkoy&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishkoy&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
@@ -50,7 +30,6 @@ Food delivery application with user-friendly interface and comprehensive orderin
 
 Beyond programming, I'm passionate about:
 - 💃 **Dancing** - keeps me active and creative
-- 🎵 **Playing komuz** - staying connected to Kyrgyz culture through music
 - 📚 **Learning new technologies** - always eager to expand my knowledge
 - 🌍 **Cultural exchange** - bridging traditional and modern worlds
 
