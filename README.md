@@ -41,8 +41,3 @@ Beyond programming, I'm passionate about:
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.orozbekovaa@gmail.com)
 
 </div>
-
----
-<div align="center">
-  <i>"Every line of code is a step towards bringing ideas to life" 💻✨</i>
-</div>
