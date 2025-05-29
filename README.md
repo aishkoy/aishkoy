@@ -5,7 +5,7 @@
 2nd year **Computer Engineering** student at **Ala-Too International University**. 
 Passionate developer who loves creating useful applications and exploring new technologies.
 
-- 🎯 **Currently working on:** a project for clients
+- 🎯 **Currently working on:** a project for seeking a job
 - 🌱 **Learning:** modern web development technologies
 - 💃 **Hobbies:** dancing and playing komuz
 
